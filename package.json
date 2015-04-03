@@ -2,7 +2,7 @@
   "name": "browser-version",
   "version": "0.0.1",
   "description": "a module for detecting the browser version",
-  "main": "js/browser-version.js",
+  "main": "browser-version.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/StevenIseki/browser-version.git"
@@ -12,7 +12,7 @@
   "homepage": "https://github.com/StevenIseki/browser-version.git",
   "devDependencies": {
     "tape": "*"
-  },  
+  },
   "testling": {
     "files": "test/*.js",
     "browsers": [
