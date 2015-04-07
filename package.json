@@ -1,6 +1,6 @@
 {
   "name": "browser-version",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "a module for detecting the browser version",
   "main": "browser-version.js",
   "repository": {
