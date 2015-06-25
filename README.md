@@ -6,3 +6,7 @@ var browserVersion = require('browser-version');
 console.log(browserVersion());
 
 ```
+
+## License
+
+[MIT](http://isekivacenz.mit-license.org/)
