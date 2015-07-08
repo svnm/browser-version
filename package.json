@@ -7,6 +7,15 @@
     "type": "git",
     "url": "https://github.com/StevenIseki/browser-version.git"
   },
+  "keywords": [
+    "browser",
+    "browser version",
+    "test browser",
+    "broswer-version",
+    "version",
+    "detect",
+    "browser"
+  ],
   "author": "Steven Iseki",
   "license": "MIT",
   "homepage": "https://github.com/StevenIseki/browser-version.git",
@@ -18,17 +27,11 @@
     "browsers": [
       "chrome/22..latest",
       "firefox/16..latest",
-      "opera/11.0..latest",
       "iphone/6",
       "android-browser/latest"
     ]
   },
   "scripts": {
     "test": "tape test/*.js"
-  },
-  "browser": [
-    "version",
-    "detect",
-    "browser"
-  ]
+  }
 }
